@@ -1,0 +1,101 @@
+.navbar-brand {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#top {
+    background-image: url("../image/top.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+}
+
+#top .top-box {
+    color: white;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+}
+
+#top .top-row {
+    margin-top: 100px;
+}
+
+#top .top-text .title {
+    font-size: 22px; 
+    display: block;
+}
+
+#top .top-text .text {
+    font-size: 22px; 
+    font-weight: bold; 
+    display: block;
+}
+
+#boxes {
+    margin-top: 100px;
+}
+
+#boxes .box h5 {
+    font-weight: bold;
+}
+
+#boxes .box .text {
+    color: #999;
+    font-size: 14px;
+}
+
+#boxes .box .icon {
+    margin-bottom: 20px;
+    background-color: #333;
+    padding: 20px;
+    color: white;
+    font-size: 40px;
+    border-radius: 15px;
+} 
+
+#featured {
+    margin-top: 80px;
+}
+
+#featured h2 {
+    font-weight: bold;
+}
+
+#featured .text {
+    color: #999;
+    margin: auto;
+    width: 80%;
+    margin-bottom: 30px !important;
+}
+
+#people {
+    margin-top: 150px;
+}
+
+#people .name {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+#footer {
+    background-color: #2a2d2b;
+    color: white;
+    margin-top: 100px;
+    font-size: 14px;
+}
+
+#footer .container {
+    padding-top: 40px;
+    padding-bottom: 25px;
+}
+
+#footer .social-button {
+    width: 40px;
+}
+
+#footer .copyright {
+    background: #191b1a;
+    padding: 16px;
+}
